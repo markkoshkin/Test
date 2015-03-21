@@ -1,6 +1,12 @@
 ﻿body {
     padding: 20px;
+}
 
+.blue {
+    background-color: #232848;
+}
 
+.text-white {
+    color: white;
 }
 
