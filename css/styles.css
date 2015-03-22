@@ -6,7 +6,53 @@
     background-color: #232848;
 }
 
+.orange {
+    color: orange;
+}
+
+.ul-menu-li {
+    padding: 15px;
+    margin-left: 15px;
+    margin-bottom: -5px;
+    margin-top: -5px;
+}
+
+.ul-menu-li :hover {
+    background-color: maroon;
+    border-radius: 5px;
+}
+
+.building-type {
+    width: 200px;
+    height: 200px;
+}
+
 .text-white {
     color: white;
+}
+
+.table {
+    table-layout: auto;
+}
+
+.text-small {
+    font-size: 11px;
+}
+
+th {
+    padding-left: 0px !important; 
+    padding-right: 0px !important; 
+}
+
+.top-choise {
+    padding: 10px;
+}
+
+.th-border-delete {
+    border: none !important;
+}
+
+.row-top {
+    margin-top: 20px !important;
 }
 
